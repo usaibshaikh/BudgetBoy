@@ -5,7 +5,7 @@
 **Release Date:** 27 December 2025  
 **Developer:** Mohammad Usaib
 
-The BudgetBOY application has been enhanced to provide new expense categories named "Medical Expenses" and "OTT Subscriptions" in the "Add New Expense" screen.
+The BudgetBOY application has been enhanced to provide new expense categories named **Medical Expenses** and **OTT Subscriptions** in the **Add New Expense** screen.
 
 This will help users in adding expenses specific to the new categories.
 
