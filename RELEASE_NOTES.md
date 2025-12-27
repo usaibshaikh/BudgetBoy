@@ -1,8 +1,19 @@
 # BudgetBoy - Release Notes
 
-## Version 1.0.0 (Initial Release)
+## Release Notes for Version Code 2 (Version 1.0) -
 
-**Release Date:** December 2025  
+**Release Date:** 27 December 2025  
+**Developer:** Mohammad Usaib
+
+The BudgetBOY application has been enhanced to provide new expense categories named "Medical Expenses" and "OTT Subscriptions" in the "Add New Expense" screen.
+
+This will help users in adding expenses specific to the new categories.
+
+---
+
+## Release Notes for Version Code 1 (Version 1.0 Initial Release) - 
+
+**Release Date:** 26 December 2025  
 **Developer:** Mohammad Usaib
 
 ### Welcome to BudgetBoy!
@@ -103,7 +114,7 @@ BudgetBoy is your personal expense tracking companion designed to help you take 
 
 ---
 
-## 🔄 What's New in Version 1.0.0
+## 🔄 What's New in Version 1.0
 
 This is the initial release of BudgetBoy with all core features:
 
@@ -166,7 +177,7 @@ Stay tuned for updates!
 
 ---
 
-**BudgetBoy v1.0.0** - Track Smarter, Spend Wiser 💰
+**BudgetBoy v1.0** - Track Smarter, Spend Wiser 💰
 
 ---
 
