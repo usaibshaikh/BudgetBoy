@@ -2,6 +2,9 @@
 
 ## Release Notes for Version Code 3 (Version 1.0) - 
 
+**Release Date:** 28 December 2025  
+**Developer:** Mohammad Usaib
+
 The BudgetBOY application main screen has been improved with multiple UI improvements for better user experience.
 
 Below UI Improvements have been made in the BudgetBOY main screen: 
