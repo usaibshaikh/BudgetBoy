@@ -1,5 +1,22 @@
 # BudgetBoy - Release Notes
 
+## Release Notes for Version Code 3 (Version 1.0) - 
+
+The BudgetBOY application main screen has been improved with multiple UI improvements for better user experience.
+
+Below UI Improvements have been made in the BudgetBOY main screen: 
+
+1. Button Styling - Added shadows and rounded corners.
+2. Increased spacing between buttons.
+3. Header text improvement - better contrast.
+4. Logo scaling.
+5. Added icons to buttons.
+6. Copyright text styling.
+7. Tip text styling.
+8. Added ripple effect on button clicks.
+
+---
+
 ## Release Notes for Version Code 2 (Version 1.0) -
 
 **Release Date:** 27 December 2025  
