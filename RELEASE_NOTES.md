@@ -2,6 +2,9 @@
 
 ## Release Notes for Version Code 4 (Version 1.0) - 
 
+**Release Date:** 01 January 2026 
+**Developer:** Mohammad Usaib
+
 The **About BudgetBOY** screen has been enhanced with below changes - 
 
 1. The developer's **GitHub link** has been made clickable which users can click to navigate to the developer's GitHub page.
