@@ -1,5 +1,16 @@
 # BudgetBoy - Release Notes
 
+## Release Notes for Version Code 4 (Version 1.0) - 
+
+The **About BudgetBOY** screen has been enhanced with below changes - 
+
+1. The developer's **GitHub link** has been made clickable which users can click to navigate to the developer's GitHub page.
+2. A clickable **developer's email link** has been provided which users can click to get in touch with the developer.
+
+**Note:** The **BudgetBOY** application still works offline except for the above features for which the Internet access will be required.
+
+---
+
 ## Release Notes for Version Code 3 (Version 1.0) - 
 
 **Release Date:** 28 December 2025  
