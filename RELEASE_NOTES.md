@@ -1,5 +1,19 @@
 # BudgetBoy - Release Notes
 
+## Release Notes for Version Code 5 (Version 1.0) - 
+
+**Release Date:** 03 January 2026 
+**Developer:** Mohammad Usaib 
+
+
+The **SHARE** button in the **Expense History** screen has been renamed to **Export** to reflect its proper behaviour since it provides the support for more than one export option **(Share and Download)**. 
+
+The button display has also been fixed to avoid setting the button text to all caps by default.
+
+The button text will now be displayed as Export.
+
+---
+
 ## Release Notes for Version Code 4 (Version 1.0) - 
 
 **Release Date:** 02 January 2026 
